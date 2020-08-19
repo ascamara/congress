@@ -1,5 +1,5 @@
 # Congressional Twitter Dataset Organizer
-Congressional Twitter Organizational Tool
+A tool to organize tweets by members of the United States Congress. Includes party, state/district, chamber, date information and more!
 ## Currently implemented:
   * by party (all time)
   * by state (all time)
