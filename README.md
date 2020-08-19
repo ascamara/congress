@@ -10,5 +10,7 @@ Note that the datasets included are from 1 January 2020 to 28 July 2020 and only
 
 # Acknowledgements
 Source for raw twitter data: https://github.com/alexlitel/congresstweets.
+Exact source for raw twitter data: https://github.com/alexlitel/congresstweets/tree/master/data.
+Includes other non-individual accounts (e.g. Caucus accounts).
 
 This source is updated daily, the datasets included on this repo are updated as of 7/28/20.
