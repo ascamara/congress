@@ -8,6 +8,8 @@ A tool to organize tweets by members of the United States Congress. Includes par
   
 Note that the datasets included are from 1 January 2020 to 28 July 2020 and only include members serving in the 116th United States Congress as of 28 July 2020. Members of the 116th United States Congress who have resigned or passed away before this time are not included (ex. Rep. Hill (D-CA), Rep. Lewis (D-GA)), but any new or previous members may be added via the legislators-current.csv file and findauthor.py file.  
 
+Please reach out if you'd like to get the pickle files so that you don't have to compile from scratch (however, the data set may be old).
+
 # Acknowledgements
 Source for raw twitter data: https://github.com/alexlitel/congresstweets.
 
